@@ -6,6 +6,8 @@
 
 นายปัณณทัต เงินงาม 660610775
 
+tests
+
 ## ขั้นตอน
 1. Clone project
 2. Edit project (add student information)
